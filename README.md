@@ -1,73 +1,24 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=400&section=header&text=Welcome!%20%F0%9F%A4%8D&fontSize=90)
  
-<h1>About Me 📌</h1>
-
-- 👋 Hi, I’m Amr Zedan
-- 🎓 I am studying "Computer Engineering" At Birzeit University
-
-```diff
-👀 I'm looking for an internship for this summer
-```
-- 📫 Reach Me through zezoamer2018@gmail.com, or through my <a href="https://www.linkedin.com/in/amrzedan2003/">Linkedin</a>
-<br /> 
-
-<br>
-
-<br>
-<h2 align="center"> 💻Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "32"> </h2>
- <br>
- 
+<h1>About Me </h1>
+# 📌 About Me:
+👋 Hi, I’m Amr Zedan<br>🎓 I am studying "Computer Engineering" At Birzeit University<br>👀 I'm looking for an internship for this summer
 
 
- ![HTML5 badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3 badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Github badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+## 🔗 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/amrzedan2003) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amrzedan2003) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amrzedan2003) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/amrzedan2003) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@amrzedan2003) 
 
- 
-<!-- -->
-<!-- <center> -->
-<img align="center" width="100%" src="https://camo.githubusercontent.com/8cfcf8317613181b4f1cc4dec2940420fc9f14ea75d9bfb54a71a78cf8d1afc2/68747470733a2f2f692e696d6775722e636f6d2f67427850366f4a2e676966" data-canonical-src="https://i.imgur.com/gBxP6oJ.gif"  data-target="animated-image.originalImage">
- 
-<!-- </center> -->
-<br>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=amrzedan2003&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=amrzedan2003&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=amrzedan2003&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- -->
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
+---
+[![](https://visitcount.itsvg.in/api?id=amrzedan2003&icon=6&color=1)](https://visitcount.itsvg.in)
 
-<br>
-<h2 align="center"> Quick Overview 📈</h2>
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=faris771&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&bg_color=151515&title_color=FB8C00&text_color=fff&icon_color=fff" alt = "faris771's Languages/Frameworks" width = 400 />
-
- *** 
- 
- <details align="center">
- <br>
-<summary><b>My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'></b></summary>
-<table>
-  <thead>
- </p>
-<center>
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=faris771&count_private=true&theme=dark&hide_border=true" alt = "faris771's Contribution" width = 400 >
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=faris771&theme=dark&hide_border=true" alt = "faris771's Rating" width = 400 >
-  </center>
-</p>
-<p align = "center">
-  <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faris771&theme=monokai" alt = "faris771's profile Summary" width = 750 >
-  </center>
-</p>
-<br />
-</table>
-</details>
- 
-<h2 align="center">Visitors 👀</h2>
-<div align="center" >
-  <img src="https://profile-counter.glitch.me/faris771/count.svg"></img>
-</div>
-
-<br /><br />
-<h2 align="center">Let's Connect <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2> 
-<p align="center">
-  <a href = "mailto:farisabufarha33@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height = 29 width =109></a>
-   <a href="https://www.linkedin.com/in/faris-abufarha-630115252//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
